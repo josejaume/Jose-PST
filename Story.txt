@@ -1,1 +1,3 @@
 Hi It's me ya boy
+
+enable ssh server
